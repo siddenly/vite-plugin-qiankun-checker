@@ -28,7 +28,8 @@
     "vite-plugin-dts": "2.3.0"
   },
   "peerDependencies": {
-    "vite": "4.2.1"
+    "vite": "^4.2.1",
+    "vite-plugin-checker": "^0.6.2"
   },
   "dependencies": {
     "@types/node": "^20.5.9",
